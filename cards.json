@@ -1,0 +1,51 @@
+{
+    "cards": [{
+            "id": 1,
+            "imgName": "Full Moon",
+            "imgUser": "Alex",
+            "imgURL": "moon"
+        },
+        {
+            "id": 2,
+            "imgName": "Waikiki Beach sunset",
+            "imgUser": "María",
+            "imgURL": "beach"
+        },
+        {
+            "id": 3,
+            "imgName": "Full Moon",
+            "imgUser": "Alex",
+            "imgURL": "moon"
+        },
+        {
+            "id": 4,
+            "imgName": "Waikiki Beach sunset",
+            "imgUser": "María",
+            "imgURL": "beach"
+        },
+        {
+            "id": 5,
+            "imgName": "Waikiki Beach sunset",
+            "imgUser": "María",
+            "imgURL": "beach"
+        },
+        {
+            "id": 6,
+            "imgName": "Waikiki Beach sunset",
+            "imgUser": "María",
+            "imgURL": "beach"
+        },
+        {
+            "id": 7,
+            "imgName": "Full Moon",
+            "imgUser": "Alex",
+            "imgURL": "moon"
+        },
+        {
+            "id": 8,
+            "imgName": "Waikiki Beach sunset",
+            "imgUser": "María",
+            "imgURL": "beach"
+        }
+    ]
+}

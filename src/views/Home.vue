@@ -1,22 +1,17 @@
 <template>
-  <div class="home">
-    <Header/>
-    <Card/>
+  <div id="home" class="home">
+    <Cards/>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import Header from '@/components/Header.vue';
-import Card from '@/components/Card.vue';
+import Cards from '@/components/Cards.vue';
+
 
 export default {
   name: 'Home',
   components: {
-    Header,
-    Card
+    Cards
   }
 }
 </script>
-
-
